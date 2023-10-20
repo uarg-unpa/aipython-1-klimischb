@@ -8,3 +8,7 @@ print("recibido","vamos",sep="",end="\n")
 print("la función \"print\"...")
 print('la función "print"')
 # CLEAR para borrar todo
+print("la función print\t hola")
+print("FIN") 
+#CADENAS NUMEROS BOOLEANOS NONE
+#En la terminal si colocamos la paabra Python, nos permite hacer operaciones directamente ej 4+5, damos enter y no da el reasultado 
