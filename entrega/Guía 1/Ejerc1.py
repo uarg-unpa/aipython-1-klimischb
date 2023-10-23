@@ -8,6 +8,7 @@ print(Barbara, Klimisch, ?) #Escribir un programa que muestre tu nombre, apellid
 argumentos separados.
 print(Barbara, Klimisch, ?) #Modificar el programa anterior para que en vez de que los argumentos estén
 separados por espacios, se unan por un guión bajo. Tip usar sep.
+
 h. Escribir un programa que muestre tres argumentos: calle, número y código
 postal. Deben estar separados por una tabulación. Tip \t
 i. Modificar el ejercicio anterior para que muestre cada uno de los argumentos
