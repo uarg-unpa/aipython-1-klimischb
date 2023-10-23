@@ -19,3 +19,4 @@ print(color) #esta línea es ignorada por el intérprete, se conoce como comenta
 color=3+5
 print("color")
 #print(edad) #la variable no esta definida
+#vARIABLES INMUTABLES ej EDAD=37. Si hacemos 37+1 es otra caja
