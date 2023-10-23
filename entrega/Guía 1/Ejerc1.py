@@ -13,6 +13,7 @@ print("calle\t","número\t","CP\t") #Escribir un programa que muestre tres argum
 print("calle")
 print("número")
 print("CP") 
+print()
 # j. Crear una variable que contenga un texto con caracteres especiales como salto de línea (\n) o tabulación (\t),y nos permite imprimir en forma de escalera
 print("Feliz Primavera 2023")
 #Escribir un programa que imprima con un print “Solo podemos ver poco del futuro” y usando otro print “pero lo suficiente para darnos cuenta de que hay mucho que hacer”. La salida debe ser en una sola línea y la primera frase debe terminar con una ‘,’.
@@ -25,3 +26,18 @@ print("*** ***")
 print(" * *")
 print(" * *")
 print(" *****")
+#Utilizar el intérprete como una calculadora. Algunos ejemplos para probar:
+print(5+7)
+print(0-9)
+print(2*45)
+print(3/2)
+print(6**2)
+print(3//2)
+#Calcule x^2 + 6x + 9, probando valores arbitrarios de x
+print(1**2+6*1+9)
+print(2**2+6*2+9)
+nombre="Romina"
+apellido="Barros"
+edad=36
+print(nombre,apellido,edad)
+#print()

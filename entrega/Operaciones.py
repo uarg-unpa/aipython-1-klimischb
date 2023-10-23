@@ -6,7 +6,7 @@ print(22%33) #MODULO O RESTO
 print(22//33) #DIVISION ENTERA: CUNATO ENTEROS ENTRAN EN ELUMERO
 print(22**33)
 print(22+33+45)
-#Las variables: no pueden tener espacios, ni guion medio o signo menos, no pueden empezar con un numero, si con minuscula, si con guion bajo, no se pden llamar como un palabra reservada o fx(ej. print)
+#Las variables: no pueden tener espacios, ni guion medio o signo menos, no pueden empezar con un numero, ni símbolos, si con minuscula, si con guion bajo, no se pden llamar como un palabra reservada o fx(ej. print)
 #Pueden ser numeros o cadenas(ej color=verde)
 #Las variables siempre tienen que estar definidas previamente
 #VARIABLE(una caja para guardar los literales(numeros, golianos y cadenas)) 
@@ -18,4 +18,4 @@ color="rojo"
 print(color) #esta línea es ignorada por el intérprete, se conoce como comentario
 color=3+5
 print("color")
-print(edad) #la variable no esta definida
+#print(edad) #la variable no esta definida
