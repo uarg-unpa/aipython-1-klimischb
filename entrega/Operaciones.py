@@ -18,5 +18,18 @@ color="rojo"
 print(color) #esta línea es ignorada por el intérprete, se conoce como comentario
 color=3+5
 print("color")
-#print(edad) #la variable no esta definida
+print("\'inteligente\'") 
+# #la variable no esta definida
 #vARIABLES INMUTABLES ej EDAD=37. Si hacemos 37+1 es otra caja
+edad=37
+edad=38
+print(id(edad))
+
+print("ingrese su edad")
+edad=input()
+print("su edad es", edad)
+#input("")
+input#ingresa datos desde lamcponsola y se lo asignamoda a ala variable
+
+edad=input("ingrese su edad")
+print(edad)
