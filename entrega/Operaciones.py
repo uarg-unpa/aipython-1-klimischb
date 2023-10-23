@@ -13,3 +13,5 @@ print(22+33+45)
 #valor=10 el operador asignacion da valor al algo dentro dela caja
 #valor=valor + 3
 #13
+color="rojo"
+print(color) #esta línea es ignorada por el intérprete, se conoce como comentario
