@@ -10,4 +10,4 @@ print('Una computadora puede ser llamada "inteligente" si logra engañar a una p
 print("Barbara", "Klimisch","?") #Escribir un programa que muestre tu nombre, apellido y tu edad como argumentos separados.
 print("Barbara","Klimisch","?",sep="_") #Modificar el programa anterior para que en vez de que los argumentos estén separados por espacios, se unan por un guión bajo. Tip usar sep.
 print("calle\t","número\t","CP\t") #Escribir un programa que muestre tres argumentos: calle, número y código postal. Deben estar separados por una tabulación. Tip \t
-#Modificar el ejercicio anterior para que muestre cada uno de los argumentos en una nueva línea.
+
