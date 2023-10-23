@@ -12,3 +12,10 @@ print("la función print\t hola")
 print("FIN")
 #CADENAS NUMEROS BOOLEANOS NONE
 #En la terminal si colocamos la paabra Python, nos permite hacer operaciones directamente ej 4+5, damos enter y no da el reasultado 
+#Literalales en la termoinal ponemos type() y no devuelque que literal es.
+#Números <int>
+type(23)
+print(type(23))
+#% usa solo ewl entero
+#// me da el resto
+print(2+3)

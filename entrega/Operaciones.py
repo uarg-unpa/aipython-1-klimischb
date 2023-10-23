@@ -1,0 +1,7 @@
+print(22+33)
+print(22-33)
+print(22*33)
+print(22/33) #DIVISION COMUN
+print(22%33) #MODULO O RESTO 
+print(22//33) #DIVISION ENTERA: CUNATO ENTEROS ENTRAN EN ELUMERO
+print(22**33)
