@@ -24,16 +24,10 @@ print("\'inteligente\'")
 edad=37
 edad=38
 print(id(edad))
-mi_texto="texto"
+#mi_texto="texto"
 
 print("ingrese su edad")
 edad=input()
-print("su edad es", edad)
-#input("")
-input#ingresa datos desde lamcponsola y se lo asignamoda a ala variable
-
-edad=input("ingrese su edad")
-print(edad)
-#tamaño= len (texto)
+print("su edad es", edad) #input("")input#ingresa datos desde lamcponsola y se lo asignamoda a ala variable #tamaño= len (texto)
 mi_texto="python"
 una_parte=mi_texto [0:3]
