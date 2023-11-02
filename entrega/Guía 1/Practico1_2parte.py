@@ -1,0 +1,12 @@
+#Pratico1
+#Punto3
+nombre="Barbara"
+print(nombre)
+apellido="Klimisch"
+print(apellido)
+edad="36"
+print(edad)
+altura="1.72"
+print(altura)
+vuelo="1803"
+print(vuelo)
