@@ -13,6 +13,4 @@ if numero1>numero2:
    mayor=numero1
 else:
     mayor=numero2
-    print(mayor)#mayor
-    
-
+    print(mayor)#mayo
