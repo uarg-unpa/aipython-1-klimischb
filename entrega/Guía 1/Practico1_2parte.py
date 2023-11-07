@@ -10,7 +10,25 @@ altura="1.72"
 print(altura)
 vuelo="1803"
 print(vuelo)
+temperatura_ambiente = "29 grados"
+print(temperatura_ambiente)
+salario_mensual="pesos 1 millon"
+print(salario_mensual)
+fin_juego="game over"
+print(fin_juego)
+inicio_juego="start game"
+print(inicio_juego)
 #
+#Variables del ejercicio 3,¿con qué literales se asocian?
+# Utilizando la función input a. Crear un programa que imprima un mensaje (usar función print) solicitando, el nombre, el apellido y la edad desde la terminal y luego darle un mensaje,“ser creativo”, 
+#utilizando los tres datos ingresados. 
+#b. Modificar el ejercicio anterior para no utilizar la función print para mostrar el mensaje al solicitar los datos. Tip pasarle el argumento a la función input. 6. Crear un programa que solicite dos números enteros, luego realizar:
+#a. suma
+#b. resta
+#c. el producto
+#d. la potencia
+#e. el resto
+#7. Modificar el ejercicio 6 para que reciba un entero y un float.
 #
 cont=0
 while(cont<=10):
