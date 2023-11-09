@@ -18,7 +18,6 @@ fin_juego="game over"
 print(fin_juego)
 inicio_juego="start game"
 print(inicio_juego)
-#
 #Variables del ejercicio 3,¿con qué literales se asocian?
 print("ingrese su nombre")
 nombre=input()
@@ -30,24 +29,18 @@ print("Ser Creativo")
 # Programa de dos números enteros:
 num1=int(input("Ingrese el primer numero"))
 num2=int(input("Ingrese el segundo numero"))
-suma=(sumar{num1}y{num2})
+suma=(num1 + num2)
 print(suma)
-print(f"2:para restar{num1}y{num2}")
-print(f"3:para multiplicar{num1}y{num2}")
-print(f"4:para dividir{num1}y{num2}")
-
-
-#a. suma
-#b. resta
-#c. el producto
-#d. la potencia
-#e. el resto
+resta=(num1 - num2)
+print(resta)
+producto=(num1 * num2)
+print(producto)
+potencia=(num1 ** num2)
+print(potencia)
+resto=(num1//num2)
+print(resto)
+print('"fin de las operaciones"')
 #7. Modificar el ejercicio 6 para que reciba un entero y un float.
-#
-cont=0
-while(cont<=10):
-    print(cont)
-    cont=cont+1
  #   
 cont=0
 suma=0
@@ -55,7 +48,6 @@ while(cont<3):
     nota=int(input("ingrese nota"))
     suma=suma+nota
     cont=cont+1
-
 promedio=suma/cont
 print(f"el promedio es {promedio}")
 #
@@ -67,3 +59,8 @@ for letra in cadena:
 
 for _ in range(3):
     print('un mensaje que se repiter 3 veces')
+#
+cont=0
+while(cont<=10):
+    print(cont)
+    cont=cont+1
