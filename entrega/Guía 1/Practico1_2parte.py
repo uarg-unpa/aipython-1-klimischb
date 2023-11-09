@@ -51,16 +51,15 @@ while(cont<3):
 promedio=suma/cont
 print(f"el promedio es {promedio}")
 #
-cadena="barbi"
-if "i" in cadena:
-    print("Barby")
-for letra in cadena:
-    print(letra)
-
-for _ in range(3):
-    print('un mensaje que se repiter 3 veces')
-#
 cont=0
 while(cont<=10):
     print(cont)
     cont=cont+1
+#
+cadena="BarbY"
+if "Y" in cadena:
+    print("Genia")
+for letra in cadena:
+    print(letra)
+for _ in range(3):
+    print('un mensaje que se repiter 3 veces')
