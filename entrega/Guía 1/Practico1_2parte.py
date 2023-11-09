@@ -27,8 +27,10 @@ apellido=input()
 print("ingrese su edad")
 edad=input()
 print("Ser Creativo")
-
-# Crear un programa que solicite dos números enteros, luego realizar:
+# Programa de dos números enteros:
+num1=int(input("Ingrese el primer numero"))
+num2=int(input("Ingrese el segundo numero"))
+print(f"1:para sumar{num1}y{num2}")
 #a. suma
 #b. resta
 #c. el producto
