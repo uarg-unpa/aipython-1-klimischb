@@ -20,9 +20,16 @@ inicio_juego="start game"
 print(inicio_juego)
 #
 #Variables del ejercicio 3,¿con qué literales se asocian?
-# Utilizando la función input a. Crear un programa que imprima un mensaje (usar función print) solicitando, el nombre, el apellido y la edad desde la terminal y luego darle un mensaje,“ser creativo”, 
-#utilizando los tres datos ingresados. 
-#b. Modificar el ejercicio anterior para no utilizar la función print para mostrar el mensaje al solicitar los datos. Tip pasarle el argumento a la función input. 6. Crear un programa que solicite dos números enteros, luego realizar:
+print("ingrese su nombre")
+nombre=input()
+print("ingrese su apellido")
+apellido=input()
+print("ingrese su edad")
+edad=input()
+print("Ser Creativo")
+
+#b. Modificar el ejercicio anterior para no utilizar la función print para mostrar el mensaje al solicitar los datos. Tip pasarle el argumento a la función input. 
+#  Crear un programa que solicite dos números enteros, luego realizar:
 #a. suma
 #b. resta
 #c. el producto
