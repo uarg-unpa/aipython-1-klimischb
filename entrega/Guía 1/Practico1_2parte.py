@@ -28,8 +28,7 @@ print("ingrese su edad")
 edad=input()
 print("Ser Creativo")
 
-#b. Modificar el ejercicio anterior para no utilizar la función print para mostrar el mensaje al solicitar los datos. Tip pasarle el argumento a la función input. 
-#  Crear un programa que solicite dos números enteros, luego realizar:
+# Crear un programa que solicite dos números enteros, luego realizar:
 #a. suma
 #b. resta
 #c. el producto
