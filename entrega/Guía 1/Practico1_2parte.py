@@ -35,6 +35,7 @@ print(f"2:para restar{num1}y{num2}")
 print(f"3:para multiplicar{num1}y{num2}")
 print(f"4:para dividir{num1}y{num2}")
 
+
 #a. suma
 #b. resta
 #c. el producto
