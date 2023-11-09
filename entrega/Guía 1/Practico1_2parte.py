@@ -31,6 +31,10 @@ print("Ser Creativo")
 num1=int(input("Ingrese el primer numero"))
 num2=int(input("Ingrese el segundo numero"))
 print(f"1:para sumar{num1}y{num2}")
+print(f"2:para restar{num1}y{num2}")
+print(f"3:para multiplicar{num1}y{num2}")
+print(f"4:para dividir{num1}y{num2}")
+
 #a. suma
 #b. resta
 #c. el producto
