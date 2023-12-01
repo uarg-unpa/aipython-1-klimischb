@@ -6,12 +6,12 @@ while(cont<=100):
     cont=cont+1
 #
 #2 Tomar el ejercicio 1 y realizarlo con un bucle for, tip usar range. los números deben salir uno al lado del otro.
-for num in range (10):
-print (num)
-#cont=1
-#cadena=(cont<=100)
-#for in range(cadena):
-# print('un mensaje que se repiter 3 veces')
+for num in range (0, 101):
+    print(num)
 #3 Iterar de 10 a 0 usando un bucle while y un bucle for.
+cont=0
+while(cont>=10):
+    print(cont)
+    cont=cont+1
 #4 Escribir un programa que pida al usuario dos números enteros e imprima todos los números entre ellos.
 #5 Escribe un bucle que haga siete llamadas a print(), de modo que obtengamos UN TRIANGULO
