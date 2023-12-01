@@ -9,9 +9,9 @@ while(cont<=100):
 for num in range (0, 101):
     print(num)
 #3 Iterar de 10 a 0 usando un bucle while y un bucle for.
-cont=0
-while(cont>=10):
-    print(cont)
-    cont=cont+1
+cont=10
+while(cont>=0):
+    print(cont,end="")
+    cont=cont-1
 #4 Escribir un programa que pida al usuario dos números enteros e imprima todos los números entre ellos.
 #5 Escribe un bucle que haga siete llamadas a print(), de modo que obtengamos UN TRIANGULO
