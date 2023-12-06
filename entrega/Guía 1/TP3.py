@@ -28,8 +28,9 @@ for num in range (num1,num2,1):
     print(num) 
 #
 ###5 Bucle de siete llamadas a print(), de modo que obtengamos UN TRIANGULO
-n = int(input("Introduce la altura del triángulo (entero positivo): "))
-for i in range(n):
+for i in range(7):
     for j in range(i+1):
         print("*", end="")
     print("")
+#
+### 6
