@@ -10,3 +10,10 @@ for i in range(7):
     for j in range(i+1):
         print("*", end="")
     print("")
+#
+##
+print("ingrese usuario")
+usuario=input()
+print("ingrese numero")
+numero=input()
+print((usuario + "\n") * int(numero))
