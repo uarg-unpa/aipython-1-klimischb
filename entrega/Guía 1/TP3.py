@@ -11,14 +11,14 @@ for num in range (0, 101,1):
     print(end="")
 #
 ### 3 Iterar de 10 a 0 usando un bucle while y un bucle for.
-#Bucle while de 10 a o
-cont=10
+#Bucle while de 10 a 0
+cont=11
 while(cont>=0):
-    print(cont,end="")
+    print(cont)
     cont=cont-1
     print(end="")
 #Bucle for
-for num in range (11, -1,-1):
+for num in range (10,-1,-1):
     print(num)
 #
 ### 4 Programa que pide al usuario dos números enteros e imprime todos los números entre ellos.
